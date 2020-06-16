@@ -1,4 +1,4 @@
-# Word-play
+# NLP Word-play
 
 Using the python modules datamuse and nltk, I have created a simple python script that tells you
 the most commonly preceded and the most commonly succeeded words to the given input word.
