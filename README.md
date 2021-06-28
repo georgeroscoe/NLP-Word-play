@@ -12,3 +12,4 @@ The top scores so far are attached:
 <img width="258" alt="Screenshot 2021-06-28 at 14 13 35" src="https://user-images.githubusercontent.com/57711229/123642482-3fbd0180-d81b-11eb-9708-5ccd4646f6e6.png">
 
 
+(Obviously you can just run a for loop through every word and easily find the top score, but there's no fun in that)
